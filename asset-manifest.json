@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/travelproject/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/travelproject/static/js/main.ef1e0f99.chunk.js",
+    "main.js.map": "/travelproject/static/js/main.ef1e0f99.chunk.js.map",
+    "runtime-main.js": "/travelproject/static/js/runtime-main.6d2143ab.js",
+    "runtime-main.js.map": "/travelproject/static/js/runtime-main.6d2143ab.js.map",
+    "static/js/2.e045b39a.chunk.js": "/travelproject/static/js/2.e045b39a.chunk.js",
+    "static/js/2.e045b39a.chunk.js.map": "/travelproject/static/js/2.e045b39a.chunk.js.map",
+    "static/js/3.c16d2af4.chunk.js": "/travelproject/static/js/3.c16d2af4.chunk.js",
+    "static/js/3.c16d2af4.chunk.js.map": "/travelproject/static/js/3.c16d2af4.chunk.js.map",
+    "index.html": "/travelproject/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/travelproject/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e045b39a.chunk.js.LICENSE.txt": "/travelproject/static/js/2.e045b39a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/travelproject/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d2143ab.js",
+    "static/js/2.e045b39a.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.ef1e0f99.chunk.js"
+  ]
+}
